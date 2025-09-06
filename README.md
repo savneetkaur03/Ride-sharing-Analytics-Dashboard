@@ -32,6 +32,7 @@ It highlights:
 ---
 
 ## 🛠️ Tools Used
+- **SQL** for query analysis
 - **Power BI Desktop**
 - **Excel** (data preprocessing)
 - **DAX** for calculated measures
@@ -39,13 +40,16 @@ It highlights:
 ---
 
 ## 📌 How to Use
-1. Download the `.pbix` file (if available).
+1. Download the `.pbix` file
 2. Open it in Power BI Desktop.
 3. Explore interactive dashboards with slicers & filters.
 
 ---
 
 ## 📷 Preview
-![Dashboard Preview](<img width="1440" height="900" alt="overall" src="https://github.com/user-attachments/assets/073bd1e2-f1b9-4dc7-844b-9966cee359cb" />
-)  
+![Dashboard Preview](overall.png)
+![Dashboard Preview](Vehicle.png)
+![Dashboard Preview](revenue.png)
+![Dashboard Preview](Cancellation.png)
+![Dashboard Preview](Ratings.png)
 *(Add a screenshot of your dashboard here for quick viewing.)*
